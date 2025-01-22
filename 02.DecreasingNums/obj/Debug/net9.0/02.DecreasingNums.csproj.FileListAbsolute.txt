@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\bin\Debug\net9.0\02.DecreasingNums.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\bin\Debug\net9.0\02.DecreasingNums.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\bin\Debug\net9.0\02.DecreasingNums.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\bin\Debug\net9.0\02.DecreasingNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\bin\Debug\net9.0\02.DecreasingNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\refint\02.DecreasingNums.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\02.DecreasingNums.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\02.DecreasingNums\obj\Debug\net9.0\ref\02.DecreasingNums.dll

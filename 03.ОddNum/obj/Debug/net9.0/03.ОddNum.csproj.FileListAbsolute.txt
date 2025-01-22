@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\bin\Debug\net9.0\03.ОddNum.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\bin\Debug\net9.0\03.ОddNum.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\bin\Debug\net9.0\03.ОddNum.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\bin\Debug\net9.0\03.ОddNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\bin\Debug\net9.0\03.ОddNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\refint\03.ОddNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\03.ОddNum.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\03.ОddNum\obj\Debug\net9.0\ref\03.ОddNum.dll
