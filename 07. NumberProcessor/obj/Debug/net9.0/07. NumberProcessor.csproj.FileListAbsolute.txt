@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\bin\Debug\net9.0\07. NumberProcessor.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\bin\Debug\net9.0\07. NumberProcessor.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\bin\Debug\net9.0\07. NumberProcessor.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\bin\Debug\net9.0\07. NumberProcessor.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\bin\Debug\net9.0\07. NumberProcessor.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\refint\07. NumberProcessor.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\07. NumberProcessor.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\07. NumberProcessor\obj\Debug\net9.0\ref\07. NumberProcessor.dll
