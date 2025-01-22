@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\bin\Debug\net9.0\05.SumDigits.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\bin\Debug\net9.0\05.SumDigits.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\bin\Debug\net9.0\05.SumDigits.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\bin\Debug\net9.0\05.SumDigits.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\bin\Debug\net9.0\05.SumDigits.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\refint\05.SumDigits.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\05.SumDigits.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\05.SumDigits\obj\Debug\net9.0\ref\05.SumDigits.dll

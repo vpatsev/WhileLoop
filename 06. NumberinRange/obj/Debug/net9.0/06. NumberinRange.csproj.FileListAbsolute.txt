@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\bin\Debug\net9.0\06. NumberinRange.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\bin\Debug\net9.0\06. NumberinRange.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\bin\Debug\net9.0\06. NumberinRange.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\bin\Debug\net9.0\06. NumberinRange.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\bin\Debug\net9.0\06. NumberinRange.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\refint\06. NumberinRange.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\06. NumberinRange.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\WhileLoop\06. NumberinRange\obj\Debug\net9.0\ref\06. NumberinRange.dll
